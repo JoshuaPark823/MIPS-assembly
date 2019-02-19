@@ -1,3 +1,2 @@
-#Table of Contents
-
-- #quadratic 
+# Table of Contents
+- quadratic-congruence
