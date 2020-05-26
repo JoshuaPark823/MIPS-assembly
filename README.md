@@ -2,6 +2,8 @@
 A collection of programming assignments written in MIPS assembly
 
 # Overview 
-A chronological order of my MIPS programming and Git usage experience. 
-My hope is that as time goes on, there is a clear and visible increase
-in the progression of my MIPS and GitHub ability.
+Some ASM files from McGill University's COMP 273 course on Computer Systems (2018).
+Unfortunately, the document files are unavailable due to copyright issues, however a short description of 
+what each subroutine performs has been written.
+
+Cheers.
